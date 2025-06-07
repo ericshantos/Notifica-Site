@@ -28,8 +28,8 @@ To send emails through Gmail, you'll need to set up an "App Password":
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ericshantos/portfolio-tracker.git
-   cd portfolio-tracker
+   git clone https://github.com/ericshantos/VisitTracker_API.git
+   cd VisitTracker_API
    ```
 
 2. Create and activate a virtual environment:

@@ -28,8 +28,8 @@ Para enviar e-mails através do Gmail, você precisará configurar uma "Senha de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ericshantos/portfolio-tracker.git
-   cd portfolio-tracker
+   git clone https://github.com/ericshantos/VisitTracker_API.git
+   cd VisitTracker_API
    ```
 
 2. Crie e ative um ambiente virtual:
